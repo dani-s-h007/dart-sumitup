@@ -1,4 +1,4 @@
-# dart-sumitup
+# Sum it Up 
 
 🔢 A simple Dart program that takes two numbers as input, calculates their sum, and prints the result using string interpolation and concatenation.
 
@@ -17,7 +17,7 @@ The sum of 8 and 12 is 20
 3. Run the program:
 
 ```bash
-dart run sum_it_up.dart
+dart run sumitup.dart
 ```
 
 ### Prerequisites
